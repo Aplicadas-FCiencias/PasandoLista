@@ -1,5 +1,5 @@
 # PasandoLista
-* Leonardo C. Mendoza Granillo
+* Leonardo C. Mendoza Granillo - leocmg@ciencias.unam.mx
 * Pedrito Sola - hellmans@gmail.com
 * Juan M. Barrios - j.m.barrios@gmail.com
 * MJ - spiderman_gf@gmail.com
