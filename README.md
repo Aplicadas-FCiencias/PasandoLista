@@ -9,3 +9,4 @@
 * Lenin Pavón Alvarez :octocat: - lenin.pavon@ciencias.unam.mx
 * Aurelio Navarro Juan Alberto - albertn085@ciencias.unam.mx 
 * Luis Felipe Vazquez Avina - avi.luis@ciencias.unam.mx
+* Rodrigo Rodas Hernández - rodrigo.rodas@ciencias.unam.mx
