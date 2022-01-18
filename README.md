@@ -10,3 +10,4 @@
 * Aurelio Navarro Juan Alberto - albertn085@ciencias.unam.mx 
 * Luis Felipe Vazquez Avina - avi.luis@ciencias.unam.mx
 * Rodrigo Rodas Hernández - rodrigo.rodas@ciencias.unam.mx
+* Luis Lopez Canche - llupezcanche@ciencias.unam.mx
